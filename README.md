@@ -67,14 +67,14 @@ The main results and recommendations found by this project are as follows:
 
 Overall, two deliverables were given by the end of the course:
 
-1. Final Presentation to IHG
-2. Technical Paper
+1. ["Final Presentation to IHG"](https://github.com/njones738/Predicting-Email-Clicks/blob/main/deliverables/Lodging%20Leaders%20-%20Final%20IHG%20Presentation.pptx)
+2. ["Technical Paper"](https://github.com/njones738/Predicting-Email-Clicks/blob/main/deliverables/Lodging%20Leaders%20-%20Final%20IHG%20Report.pdf)
 
 During the course of the semester, three checkpoint deliverables were presented to Professor Franks and members of IHG's Advanced Analytics team:
 
-1. Analytical Plan     
-2. Initial Analysis Results     
-3. Final Analysis Results     
+1. ["Analytical Plan"](https://github.com/njones738/Predicting-Email-Clicks/blob/main/deliverables/Lodging%20Leaders%20-%20Analytical%20Plan%20for%20IHG.pptx)    
+2. ["Initial Analysis Results"](https://github.com/njones738/Predicting-Email-Clicks/blob/main/deliverables/Lodging%20Leaders%20-%20Initial%20Analysis%20Results%20Presentation.pptx)     
+3. ["Final Analysis Results"](https://github.com/njones738/Predicting-Email-Clicks/blob/main/deliverables/Lodging%20Leaders%20-%20Final%20Analysis%20Results%20Presentation.pptx)     
 
 ## Data sources
 
