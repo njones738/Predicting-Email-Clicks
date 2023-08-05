@@ -31,6 +31,8 @@ The main results and recommendations found by this project are as follows:
 2. An XGBoost model produces the highest Area Under the Curve (AUC: 95 %), lowest proportion of incorrectly identified members who would click (False Negatives: 0.2 %), and the highest proportion of correctly identified members who would click (True Positives: 1.6 %) when predicting whether a member would click an email.
 3. If the cost of incorrectly identifying members who would not click is high, then a Naïve Bayes model, compared to the XGBoost model, produces a competitive proportion of True Positives (1.3 %) and False Negatives (0.5 %) while incorrectly identifying 5 % fewer members who would not click.
 
+!["image"](https://github.com/njones738/Predicting-Email-Clicks/blob/main/data/images/executive_summary_images.jpg)
+
 ## Folder structure
 
 ```
