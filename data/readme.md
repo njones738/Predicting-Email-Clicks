@@ -2,21 +2,12 @@
 
 ```
 - readme.md
----- DESCRIPTION OF STRUCTURE
-----------------
-----------------
-- dataset 1
----- DESCRIPTION
----- ORDER
----------------- 
-----------------
-- dataset 2
----- DESCRIPTION
----- ORDER
----------------- 
-----------------
-- dataset 3
----- DESCRIPTION
----- ORDER
----------------- 
+--------
+- countrycode.csv
+---- Geographical information including country names, codes, continent, captial, currency, etc.
+-------- 
+--------
+- holiday_df.csv
+---- Information about holidays observed by different U.S. states, cultures, countries including dates between 2020 - 2022, day of week, holiday name, and time point
+-------- 
 ```
